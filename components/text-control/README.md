@@ -46,7 +46,7 @@ Type of the input element to render. Defaults to "text".
 
 The current value of the input
 
-- Type: `Number`
+- Type: `String`
 - Required: Yes
 
 ### onChange
